@@ -1,0 +1,17 @@
+name: qc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - fastqc
+  - multiqc
+  - bbmap
+  - falco
+  - cutadapt
+  - python=2.7
+  - trim-galore
+  - fastp
+  - bioconda::fastq-screen
+prefix: /hdd/FastData0/apps/anaconda/envs/qc

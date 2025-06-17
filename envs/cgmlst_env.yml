@@ -1,0 +1,9 @@
+name: chewie
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - chewbbaca=3.3.5
+prefix: /hdd/FastData0/apps/anaconda/envs/chewie

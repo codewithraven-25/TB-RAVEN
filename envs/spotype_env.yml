@@ -1,0 +1,10 @@
+name: spotype
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - python=2.7
+  - spotyping
+prefix: /hdd/FastData0/apps/anaconda/envs/spotype

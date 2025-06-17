@@ -1,0 +1,9 @@
+name: vsnp3
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - vsnp3=3.26
+prefix: /hdd/FastData0/apps/anaconda/envs/vsnp3

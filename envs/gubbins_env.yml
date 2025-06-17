@@ -1,0 +1,11 @@
+name: gubbins
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - gubbins
+  - snp-dists
+  - snp-sites
+prefix: /hdd/FastData0/apps/anaconda/envs/gubbins

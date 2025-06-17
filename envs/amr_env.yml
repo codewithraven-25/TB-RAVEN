@@ -1,0 +1,9 @@
+name: TB_profiler
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - tb-profiler
+prefix: /hdd/FastData0/apps/anaconda/envs/TB_profiler

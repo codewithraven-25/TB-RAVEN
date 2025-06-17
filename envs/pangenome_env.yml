@@ -1,0 +1,9 @@
+name: Panaroo
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - panaroo
+prefix: /hdd/FastData0/apps/anaconda/envs/Panaroo

@@ -1,0 +1,10 @@
+name: seqtyping
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - mlst
+  - bioconda::ectyper
+prefix: /hdd/FastData0/apps/anaconda/envs/seqtyping

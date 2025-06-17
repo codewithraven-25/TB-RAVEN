@@ -1,0 +1,9 @@
+name: multiqc
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - multiqc
+prefix: /hdd/FastData0/apps/anaconda/envs/multiqc

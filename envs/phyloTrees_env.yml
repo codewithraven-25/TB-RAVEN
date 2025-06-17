@@ -1,0 +1,13 @@
+name: trees
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - raxml-ng
+  - fasttree
+  - iqtree
+  - snp-sites
+  - snp-dists
+prefix: /hdd/FastData0/apps/anaconda/envs/trees

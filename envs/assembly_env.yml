@@ -1,0 +1,12 @@
+name: assembly
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - skesa
+  - spades
+  - shovill
+  - quast
+prefix: /hdd/FastData0/apps/anaconda/envs/assembly

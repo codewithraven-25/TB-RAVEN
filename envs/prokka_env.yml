@@ -1,0 +1,9 @@
+name: prokka_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - prokka
+prefix: /hdd/FastData0/apps/anaconda/envs/prokka_env
