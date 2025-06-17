@@ -13,6 +13,9 @@ Install conda enviornment individually <BR>
 conda env create -f env_name.yml <BR>
 
 or use install.sh to auto-setup all conda environments <BR>
+chmod +x install.sh <BR>
+./install.sh <BR>
+
 conda activate tb-RAVEN <BR>
 
 ## Features
