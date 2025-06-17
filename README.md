@@ -2,14 +2,14 @@
 A simple bash-based pipeline for Mycobacterium bovis whole genome data analysis using anaconda (Conda).
 
 ## Requirements
-- Conda
-- Git
+- Conda <BR>
+- Git <BR>
 
 ## Setup
-git clone https;//github.com/butterbee/tb-RAVEN.v02.git
-cd tb-RAVEN.v02
-conda env create -f environment.yml
-conda activate tb-RAVEN
+git clone https;//github.com/butterbee/tb-RAVEN.v02.git <BR>
+cd tb-RAVEN.v02 <BR>
+conda env create -f environment.yml <BR>
+conda activate tb-RAVEN <BR>
 
 ## Features
 Quality control with FastQC and MultiQC <BR>
