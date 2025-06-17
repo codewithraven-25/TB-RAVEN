@@ -1,5 +1,5 @@
 #!/bin/bash
-# install.sh - Install and set up environements requeired for the RAVEN workflow.
+# install.sh - Install and set up environements required for the RAVEN workflow.
 
 set -euo pipefail
 
