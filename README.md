@@ -12,17 +12,17 @@ conda env create -f environment.yml
 conda activate tb-RAVEN
 
 ## Features
-Quality control with FastQC and MultiQC
-in-sillico spoligotyping using Spotyping
-Read trimming and filtering using Fastp
-denovo assembly of short reads using Shovil/SKESA assembler
-Variant calling using short-reads with VSNP3
-Variant calling using denovo assemblies with Snippy
-Phylogenetic tree construction with RAxML and IQ-TREE
-SNP distance calculation using SNP-dists
-Gene annotation with Prokka
-Sequence typing using MLST and Chewbacca
-AMR indexing of genomes and reads using TB profiler
+Quality control with FastQC and MultiQC <BR>
+in-sillico spoligotyping using Spotyping <BR>
+Read trimming and filtering using Fastp <BR>
+denovo assembly of short reads using Shovil/SKESA assembler <BR>
+Variant calling using short-reads with VSNP3 <BR>
+Variant calling using denovo assemblies with Snippy <BR>
+Phylogenetic tree construction with RAxML and IQ-TREE <BR>
+SNP distance calculation using SNP-dists <BR>
+Gene annotation with Prokka <BR>
+Sequence typing using MLST and Chewbacca <BR>
+AMR indexing of genomes and reads using TB profiler <BR>
 Pangenome analysis with Panaroo
 
 
