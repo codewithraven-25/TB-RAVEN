@@ -33,8 +33,8 @@ RAVEN Module 2: Performs a complete analysis of denovo assemblies, including var
 
 
 ## Steps
-To perform Module 1: ./Raven_M1_main.sh  or bash Raven_M1_main.sh
-To perform Module 2: ./Raven_M2_main.sh  or bash Raven_M2_main.sh
+To perform Module 1: ./Raven_M1_main.sh  or bash Raven_M1_main.sh <BR>
+To perform Module 2: ./Raven_M2_main.sh  or bash Raven_M2_main.sh <BR>
 
 ## Citation
 if you use this pipeline, please cite the underlyting tools and the this repository.
