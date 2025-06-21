@@ -16,8 +16,6 @@ or use install.sh to auto-setup all conda environments <BR>
 chmod +x install.sh <BR>
 ./install.sh <BR>
 
-conda activate tb-RAVEN <BR>
-
 ## Features
 Quality control with FastQC and MultiQC <BR>
 in-sillico spoligotyping using Spotyping <BR>
